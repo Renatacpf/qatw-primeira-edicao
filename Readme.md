@@ -1,3 +1,5 @@
+ALTERADO PARA O EXERCICIO DA AULA DA PÓS GRADUAÇÃO - GIT
+
 # QA Tech Week - Primeira Edição
 
 Bem-vindo ao repositório do **QA Tech Week - Primeira Edição**! Aqui você encontrará as instruções para configurar o ambiente, subir os serviços necessários e rodar os testes automatizados com Playwright.
